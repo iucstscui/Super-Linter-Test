@@ -6,6 +6,7 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Start!");
             FizzBuzz(100);
         }
 
